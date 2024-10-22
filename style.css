@@ -41,7 +41,7 @@ h2 {
 
 body {
   font-family: 'DM Sans', sans-serif;
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 400;
 }
 
@@ -64,10 +64,10 @@ body {
   background: var(--purple-500);
 }
 .card1 h1 {
-  font-size: 45px;
+  font-size: 2.8125rem;
   padding: 14px 24px;
-  letter-spacing: 1px;
-  line-height: 42px;
+  letter-spacing: 0.0625rem;
+  line-height: 2.625rem;
   margin-top: 9px;
 }
 .card1 h1 span {
@@ -87,7 +87,7 @@ body {
 }
 .card2 h2 {
   letter-spacing: -2px;
-  line-height: 24px;
+  line-height: 1.5rem;
   padding-top: 10px;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 .card3 h2 {
   letter-spacing: -1.7px;
-  line-height: 24px;
+  line-height: 1.5rem;
   padding-right: 10px;
   margin-bottom: 14px;
 }
@@ -133,10 +133,10 @@ body {
   margin: 7px 0 34px;
 }
 .card5 h2 {
-  font-size: 32px;
+  font-size: 2rem;
   color: var(--white);
   padding: 0 32px;
-  line-height: 28px;
+  line-height: 1.75rem;
   margin-bottom: 7px;
 }
 .card6 {
@@ -144,7 +144,7 @@ body {
   background: var(--white);
 }
 .card6 h2 {
-  font-size: 46px;
+  font-size: 2.875rem;
   margin-bottom: 4px;
 }
 .card6 p {
@@ -160,9 +160,9 @@ body {
   background: var(--yellow-100);
 }
 .card7 h2 {
-  font-size: 32px;
+  font-size: 2rem;
   letter-spacing: -1.5px;
-  line-height: 26px;
+  line-height: 1.625rem;
   margin-bottom: 26px;
 }
 .card7 h2 span {
@@ -176,9 +176,9 @@ body {
   background: var(--yellow-500);
 }
 .card8 h2 {
-  font-size: 32px;
+  font-size: 2rem;
   letter-spacing: -1.3px;
-  line-height: 28px;
+  line-height: 1.75rem;
   margin-bottom: 24px;
 }
 .card8 img {
@@ -241,8 +241,8 @@ body {
     grid-area: card1;
   }
   .card1 h1 {
-    font-size: 61px;
-    line-height: 57px;
+    font-size: 3.8125rem;
+    line-height: 3.5625rem;
     letter-spacing: 0.3px;
     padding: 0px;
     margin-top: 7px;
@@ -265,8 +265,8 @@ body {
     padding-left: 8px;
   }
   .card2 h2 {
-    font-size: 33px;
-    line-height: 29px;
+    font-size: 2.0625rem;
+    line-height: 1.8125rem;
     padding-top: 12px;
   }
 
@@ -278,8 +278,8 @@ body {
     grid-area: card3;
   }
   .card3 h2 {
-    font-size: 34px;
-    line-height: 29px;
+    font-size: 2.125rem;
+    line-height: 1.8125rem;
     margin-bottom: 15px;
   }
   .card4 {
@@ -291,8 +291,8 @@ body {
     grid-area: card4;
   }
   .card4 h2 {
-    font-size: 34px;
-    line-height: 28px;
+    font-size: 2.125rem;
+    line-height: 1.75rem;
     margin-top: 26px;
     margin-bottom: 24px;
   }
@@ -327,10 +327,10 @@ body {
   .card5 h2 {
     flex-basis: 54%;
     text-align: left;
-    font-size: 40px;
+    font-size: 2.5rem;
     padding-right: 0;
     padding-left: 11px;
-    line-height: 37px;
+    line-height: 2.3125rem;
     margin-top: 47px;
   }
   .card6 {
@@ -340,7 +340,7 @@ body {
     grid-area: card6;
   }
   .card6 h2 {
-    font-size: 62px;
+    font-size: 3.875rem;
     margin-bottom: 2px;
   }
   .card6 img {
@@ -353,10 +353,10 @@ body {
     grid-area: card7;
   }
   .card7 h2 {
-    font-size: 38px;
+    font-size: 2.375rem;
     padding-left: 8px;
     letter-spacing: -2px;
-    line-height: 36px;
+    line-height: 2.25rem;
     margin-top: 52px;
     margin-bottom: 22px;
   }
@@ -371,8 +371,8 @@ body {
     grid-area: card8;
   }
   .card8 h2 {
-    font-size: 39px;
-    line-height: 35px;
+    font-size: 2.4375rem;
+    line-height: 2.1875rem;
     padding-right: 24px;
     margin-bottom: 55px;
   }
